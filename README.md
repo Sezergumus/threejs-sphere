@@ -1,1 +1,0 @@
-# threejs-sphere-test
