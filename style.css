@@ -63,6 +63,7 @@ nav li:hover{
     top:0;
     background-color: #000;
     z-index: 3;
+    pointer-events: none;
 }
 
 .loader-container{
